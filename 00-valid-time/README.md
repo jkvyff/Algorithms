@@ -1,3 +1,4 @@
+# Valid Time
 Check if the given string is a correct time representation of the 24-hour clock.
 
 **Example**
@@ -24,3 +25,7 @@ A string representing time in HH:MM format. It is guaranteed that the first two 
 -   **[output] boolean**
 
 true if the given representation is correct, false otherwise.
+
+
+## Credit
+[100 Algorithms Challenge](https://github.com/PizzaPokerGuy/100AlgorithmsChallenge/blob/master/validTime/README.md)

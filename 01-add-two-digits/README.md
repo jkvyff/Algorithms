@@ -1,3 +1,4 @@
+# Add Two Digits
 You are given a two-digit integer n. Return the sum of its digits.
 
 **Example**
@@ -25,3 +26,6 @@ addTwoDigits(n) = 11.
 - **[output] integer**
 
     The sum of the first and second digits of the input number.
+
+## Credit
+[100 Algorithms Challenge](https://github.com/PizzaPokerGuy/100AlgorithmsChallenge/tree/master/addTwoDigits)
