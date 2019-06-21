@@ -1,9 +1,9 @@
 function largestOfFour(arrays) {
 	let newArray = [];
 	for (let array of arrays) {
-		let largest = 0;
+		let largest = array[0];
 		for (let i = 0; i < array.length; i++) {
-			if (array[i] > largest) largest = array[i];
+			if (array[i] >= largest) largest = array[i];
 		}
 		newArray.push(largest);
 	}
